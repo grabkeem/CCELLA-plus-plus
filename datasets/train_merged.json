@@ -1,0 +1,1 @@
+[{"axt2": "./patient_id/axt2.nii.gz", "b1600": "./patient_id/b1600.nii.gz", "adc": "./patient_id/adc.nii.gz", "dataset": "Institute1", "folder": "patient_id", "pirads": [1, 0], "spacing": [0.5, 0.5, 0.5625], "text": "/path/to/nulltext.npy", "text_isnull": 1}]

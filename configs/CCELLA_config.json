@@ -1,0 +1,29 @@
+{
+    "diffusion_unet_train": {
+        "batch_size": 8,
+        "cache_rate": 1.0,
+        "lr": 1e-4,
+        "n_epochs": 400,
+        "imkey": "axt2",
+        "num_workers": 8
+    },
+    "diffusion_unet_inference": {
+        "imkey": "axt2",
+        "dim": [
+            256,
+            256,
+            128
+        ],
+        "spacing": [
+            0.5,
+            0.5,
+            0.5
+        ],
+        "pirads": [
+            0,
+            1
+        ],
+        "random_seed": 0,
+        "num_inference_steps": 1000
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "data_base_dir": "[path_to_data]/coreg_diffusion_new",
+    "embedding_base_dir": "[path_to_data]/coreg_diffusion_exp3_emb",
+    "tfevent_path": "./outputs/tfevent",
+    "imkey": "axt2",
+    "exp_name": "CCELLA_inst1",
+    "train_json": "./datasets/train_diff_exp3.json",
+    "test_json": "./datasets/test_exp3.json",
+    "model_dir": "./models",
+    "model_filename": "CCELLA_inst1.pt",
+    "output_dir": "./diffusion_outputs/CCELLA_inst1",
+    "output_prefix": "unet_3d",
+    "trained_autoencoder_path": "./models/model_maisi_autoencoder_epoch273_alternative.pt",
+    "existing_ckpt_filepath": null,
+    "institute1": true
+    
+}

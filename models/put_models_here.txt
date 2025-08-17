@@ -1,0 +1,1 @@
+MAISI autoencoder can be downloaded at: https://developer.download.nvidia.com/assets/Clara/monai/tutorials/model_zoo/model_maisi_autoencoder_epoch273_alternative.pt
